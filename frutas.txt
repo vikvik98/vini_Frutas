@@ -1,2 +1,5 @@
 Melancia
 Banana
+uva
+maça
+pera
