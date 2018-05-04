@@ -3,3 +3,6 @@ Banana
 uva
 maça
 pera
+Melancia branca
+Banana
+Uva
